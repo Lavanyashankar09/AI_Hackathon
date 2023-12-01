@@ -1,5 +1,6 @@
 # AI_Hackathon
 
-Dec 1 2023
+Predictive Customer Analytics in Healthcare
+Sponsor: Protenus
 
-First Day: 
+First Day: Dec 1 2023
