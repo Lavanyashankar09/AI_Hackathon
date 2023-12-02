@@ -21,8 +21,6 @@ website - https://www.protenus.com/
 Data:
 
 1. every month they take a snapshot
-2. opportunity stage - its the pipeline process. 
-    sometimes entire pipeline will not happen
-    ![Alt text](image-1.png)
+2. opportunity stage - its the pipeline process. sometimes entire pipeline will not happen, its a deal.
 3. opportunity type - new or existing
 4. created data - will be consistent
