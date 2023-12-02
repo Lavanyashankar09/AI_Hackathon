@@ -16,6 +16,7 @@ website - https://www.protenus.com/
     they want to forecast quater sales
     he is able to forcast overall sale but he is not able to forcast single deal.
 7. they have a 3 year contract with the hospital
+8. in business they only care about quater. 
 
 Data:
 
